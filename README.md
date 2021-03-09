@@ -1,6 +1,14 @@
 # List of My Camunda Examples
  This is a list showing the most useful of the examples that I've created. They aim to show common solutions and demonstrate Interesting patterners.
 
+
+## Saga Pattern using Camunda & BPMN
+This is an example of how to model the Saga Pattern by taking a distributed group of micro services and have them orchestrated asynchronously using Camunda and BPMN. 
+
+[Source Code Here](https://github.com/NPDeehan/CamundaSagaPatternExample)
+
+![Saga Pattern](https://raw.githubusercontent.com/NPDeehan/CamundaSagaPatternExample/main/Models/BookHolidaySagaPatternV2.png)
+
 ## Generic Error and returned
 
  An example of throwing a BPMN from any point in the process and returning back to that point after the problem has been resolved.
