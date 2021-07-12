@@ -2,6 +2,13 @@
  This is a list showing the most useful of the examples that I've created. They aim to show common solutions and demonstrate Interesting patterners.
 
 
+## Dynamically Calling a DMN table form BPMN
+If you have trouble picking a movie to watch on netflix and you really would love to know who a BPMN process can dynamically call a DMN table - this is the project for you. Why not create a pull request with your movie recommendation? 
+
+[Source Code Here](https://github.com/NPDeehan/Dynamic-DMN-Example)
+
+![Dynamic-DMN](https://raw.githubusercontent.com/NPDeehan/Dynamic-DMN-Example/main/images/DMNGermany.png)
+
 ## Saga Pattern using Camunda & BPMN
 This is an example of how to model the Saga Pattern by taking a distributed group of micro services and have them orchestrated asynchronously using Camunda and BPMN. 
 
