@@ -1,5 +1,8 @@
 # List of My Camunda Platform 7 Examples
- This is a list showing the most useful of the examples for Camunda Plaform 7 that I've created. You should be aware that if you're using Camunda Platorm 8 a lot of what I demonstrate here won't apply
+ This is a list showing the most useful of the examples for Camunda Plaform 7 that I've created. 
+ 
+⚠ *You should be aware that if you're using Camunda Platorm 8 a lot of what I demonstrate here won't apply* ⚠
+
  They aim to show common solutions and demonstrate Interesting patterners.
 
 
